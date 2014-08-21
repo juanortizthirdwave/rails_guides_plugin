@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  last_squawk: MyString
+  last_tweek: 
+  generate: MyString
+  model: MyString
+  Hickwall: MyString
+  last_squawk: MyString
+
+two:
+  last_squawk: MyString
+  last_tweek: 
+  generate: MyString
+  model: MyString
+  Hickwall: MyString
+  last_squawk: MyString
